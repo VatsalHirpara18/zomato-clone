@@ -17,8 +17,6 @@ It is a web application which is developed, to replicate a platform for the user
 Fork the project by clicking on the similar button below :
 <img src="https://docs.github.com/assets/images/help/repository/fork_button.jpg">
 
-### `Clone Your Project Copy`
-Clone the [project repository](https://github.com/euhidaman/zomato-clone.git) from GitHub, using the command `git clone https://github.com/VatsalHirpara18/zomato-clone` , in your local machine.
 <img src="https://docs.github.com/assets/images/help/repository/https-url-clone.png">
 
 ### `Change directory`
