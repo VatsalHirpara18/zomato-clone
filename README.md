@@ -1,7 +1,4 @@
-# [Zomato Clone](https://zomato-frontend-clone.web.app/)
 
-A Frontend Clone of the famous Food Delivery Application [Zomato](https://www.zomato.com/bangalore/restaurants?utm_source=google&utm_medium=cpc&utm_campaign=Gsearch_P-MWeb_O-NA_C-Brand_A-NewUser_SC-Generic_L-PanIndia&utm_term=zomato&gclid=EAIaIQobChMIhqvg7vev8wIVd51LBR1U1goKEAAYASAAEgJLS_D_BwE).<br>
-Live Demo: [https://zomato-frontend-clone.web.app/](https://zomato-frontend-clone.web.app/)
 
 ## Project Description :
 
