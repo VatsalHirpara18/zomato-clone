@@ -58,7 +58,3 @@ Your app is ready to be deployed !!<br/>
 <hr/>
 <br>
 
-## Project Contributors :
-<a href="https://github.com/euhidaman/zomato-clone/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=euhidaman/zomato-clone" />
-</a>
